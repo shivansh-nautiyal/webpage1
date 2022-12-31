@@ -1,4 +1,5 @@
 import requests
+import sklearn
 import streamlit as st
 from streamlit_lottie import st_lottie
 from PIL import Image
