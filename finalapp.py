@@ -7,6 +7,8 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn import preprocessing, svm
+from sklearn import preprocessing
 
 
 def load_lottieurl(url):
